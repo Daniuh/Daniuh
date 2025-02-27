@@ -11,7 +11,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
   </a>
   <a href="mailto:naranjobenavidesd@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail">
+    <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail">
   </a>
 </p>
 
