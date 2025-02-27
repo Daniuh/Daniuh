@@ -1,24 +1,55 @@
 # 👋 ¡Hola! Soy Daniel Naranjo
 ### 💻 Desarrollador | 🚀 Apasionado por la tecnología
 
-📍 **Ubicación:** España  
-🌱 **Aprendiendo:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50"> mediante <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite Logo" width="50">
-📫 **Contacto:** [Email o Redes Sociales]  
+📍 **Ubicación:** España (Colombiano)
+
+🌱 **Aprendiendo:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="15px"> mediante <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="15px">
+
+📫 **Contáctame:** 
+<p align="left">
+  <a href="https://www.linkedin.com/in/danielnaranjo2403/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="mailto:naranjobenavidesd@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail">
+  </a>
+</p>
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
+  </marquee>
+</p>
+
+---
+
+## 🌟 Habilidades
+- 🧑‍🤝‍🧑 **Trabajo en equipo**
+- 📝 **Resolución de problemas**
+- 🎯 **Orientado a resultados**
+- 🔄 **Aprendizaje continuo**
+
+---
+
+## 🔥 Proyectos Destacados
+
+- [**BlackJack en JavaScript**](https://github.com/Daniuh/Js-BlackJack-Vite): Un proyecto en donde se realizó el famoso juego de 21 cartas, se realizó en Js con Vite.
+
+- [**Todo App en JavaScript**](https://github.com/Daniuh/todo-app-Js): Un proyecto que permite gestionar tareas pendientes con funcionalidades como añadir, editar y eliminar tareas (Aún en desarrollo).
+
+- [**Portafolio personal**](https://github.com/Daniuh/portafolio): Una página web para mostrar mi portafolio personal con HTML, CSS, y JavaScript (Aún en desarrollo).
 
 ---
 
 ## 📊 Estadísticas de GitHub  
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
----
-
-## 🌎 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TU_PERFIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Daniuh&show_icons=true&theme=radical)
