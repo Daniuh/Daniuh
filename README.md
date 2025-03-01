@@ -11,7 +11,10 @@
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn">
   </a>
   <a href="mailto:naranjobenavidesd@gmail.com">
-    <img src="https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail">
+    <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail">
+  </a>
+  <a href="https://w.app/uytqbe">
+    <img src="https://img.icons8.com/?size=48&id=16713&format=png&color=000000" alt="whastApp">
   </a>
 </p>
 
