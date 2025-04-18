@@ -48,7 +48,7 @@
 
 - [**BlackJack en JavaScript**](https://github.com/Daniuh/Js-BlackJack-Vite): Un proyecto en donde se realizó el famoso juego de 21 cartas, se realizó en Js con Vite.
 
-- [**Todo App en JavaScript**](https://github.com/Daniuh/todo-app-Js): Un proyecto que permite gestionar tareas pendientes con funcionalidades como añadir, editar y eliminar tareas (Aún en desarrollo).
+- [**Todo App en JavaScript**](https://github.com/Daniuh/todo-app-Js): Un proyecto que permite gestionar tareas pendientes con funcionalidades como añadir, editar y eliminar tareas.
 
 - [**Portafolio personal**](https://github.com/Daniuh/portafolio): Una página web para mostrar mi portafolio personal con HTML, CSS, y JavaScript (Aún en desarrollo).
 
