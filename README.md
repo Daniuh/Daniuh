@@ -13,7 +13,7 @@
   <a href="mailto:naranjobenavidesd@gmail.com">
     <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail">
   </a>
-  <a href="https://w.app/uytqbe">
+  <a href="https://wa.link/kqeg05">
     <img src="https://img.icons8.com/?size=48&id=16713&format=png&color=000000" alt="whastApp">
   </a>
 </p>
