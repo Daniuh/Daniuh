@@ -16,6 +16,9 @@
   <a href="https://wa.link/kqeg05">
     <img src="https://img.icons8.com/?size=48&id=16713&format=png&color=000000" alt="whastApp">
   </a>
+  <a href="https://daniel-naranjo.netlify.app/">
+    <img src="https://img.icons8.com/?size=48&id=LpSjdjHCIgGc&format=png&color=000000" alt="whastApp">
+  </a>
 </p>
 
 ---
