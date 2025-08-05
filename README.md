@@ -3,8 +3,6 @@
 
 📍 **Ubicación:** España (Colombiano)
 
-🌱 **Aprendiendo:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="15px"> mediante <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="15px">
-
 📫 **Contáctame:** 
 <p align="left">
   <a href="https://www.linkedin.com/in/danielnaranjo2403/" target="_blank">
