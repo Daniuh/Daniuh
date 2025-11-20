@@ -32,6 +32,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+    <img width="60" height="60" alt="Node.Js" src="https://github.com/user-attachments/assets/1c485e0a-26fc-448d-8407-39af51b870a0"/>
+    <img width="60" height="60" alt="Mongo DB" src="https://github.com/user-attachments/assets/79619d72-475c-4948-817b-635b129da918" />
     <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="Tailwind" width="60" height="60"/>
   </marquee>
 </p>
