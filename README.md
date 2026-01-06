@@ -1,5 +1,8 @@
-# 👋 ¡Hola! Soy Daniel Naranjo
-### 💻 Desarrollador | 🚀 Apasionado por la tecnología
+# ¡Hola! Soy Daniel Naranjo
+
+<!--![Visitor Count](https://profile-counter.glitch.me/Daniuh/count.svg) -->
+
+### Desarrollador | Apasionado por la tecnología
 
 📍 **Ubicación:** España (Colombiano)
 
@@ -21,7 +24,7 @@
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
@@ -40,23 +43,15 @@
 
 ---
 
-## 🌟 Habilidades
-- 🧑‍🤝‍🧑 **Trabajo en equipo**
-- 📝 **Resolución de problemas**
-- 🎯 **Orientado a resultados**
-- 🔄 **Aprendizaje continuo**
-
----
-
-## 🔥 Proyectos Destacados
+##  Proyectos Destacados
 
 - [**BlackJack en JavaScript**](https://github.com/Daniuh/Js-BlackJack-Vite): Un proyecto en donde se realizó el famoso juego de 21 cartas, se realizó en Js con Vite.
 
 - [**Todo App en JavaScript**](https://github.com/Daniuh/todo-app-Js): Un proyecto que permite gestionar tareas pendientes con funcionalidades como añadir, editar y eliminar tareas.
 
-- [**Portafolio personal**](https://github.com/Daniuh/portafolio): Una página web para mostrar mi portafolio personal con HTML, CSS, y JavaScript (Aún en desarrollo).
+- [**Portafolio personal**](https://github.com/Daniuh/portafolio): Una página web para mostrar mi portafolio personal con HTML, CSS, y JavaScript.
 
 ---
 
-## 📊 Estadísticas de GitHub  
+## Estadísticas de GitHub  
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Daniuh&show_icons=true&theme=radical&cache_seconds=60)
