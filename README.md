@@ -28,7 +28,7 @@
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="60" height="60"/>
+    <img width="60" height="60" alt="Vite" src="https://github.com/user-attachments/assets/d9094938-3643-47a3-af2b-42e0eba37072" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
