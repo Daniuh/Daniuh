@@ -1,4 +1,4 @@
-# ¡Hola! Soy Daniel Naranjo
+# ¡Hola! Soy Daniel Naranjo @Daniuh
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Daniuh/count.svg) -->
 
