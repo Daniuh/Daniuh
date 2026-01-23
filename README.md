@@ -17,7 +17,7 @@
   <a href="https://wa.link/kqeg05">
     <img src="https://img.icons8.com/?size=48&id=16713&format=png&color=000000" alt="whastApp">
   </a>
-  <a href="https://daniel-naranjo.netlify.app/">
+  <a href="https://daniuh.dev/#home">
     <img src="https://img.icons8.com/?size=48&id=LpSjdjHCIgGc&format=png&color=000000" alt="whastApp">
   </a>
 </p>
@@ -49,10 +49,23 @@
 
 - [**Todo App en JavaScript**](https://github.com/Daniuh/todo-app-Js): Un proyecto que permite gestionar tareas pendientes con funcionalidades como añadir, editar y eliminar tareas.
 
-- [**Portafolio personal**](https://github.com/Daniuh/portafolio): Una página web para mostrar mi portafolio personal con HTML, CSS, y JavaScript.
+- [**Portafolio personal**](https://github.com/Daniuh/portafolio): Una página web para mostrar mi portafolio personal con HTML, CSS y JavaScript.
+
+- [**Preguntas y respuestas**](https://github.com/Daniuh/Preguntas-Respuestas): Un juego web clásico de preguntas y respuestas trabajado con HTML, CSS y Js utilizando Vite. (Aún en desarrollo).
+
+</br>
+<p align="center">
+  <em>Visita mi sitio web para conocer más sobre mi persona y mis otros proyectos que categorizo como importantes</em>
+</br>
+</br>
+  <a href="https://daniuh.dev/#home">
+    <img src="https://img.icons8.com/?size=48&id=LpSjdjHCIgGc&format=png&color=000000" alt="whastApp">
+  </a>
+</p>
+
 
 ---
 
-<!-- ## Estadísticas de GitHub  
+## Estadísticas de GitHub  
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Daniuh&show_icons=true&theme=radical&cache_seconds=60)
--->
+
