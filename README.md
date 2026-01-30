@@ -65,7 +65,9 @@
 
 
 ---
-
+<!-- 
 ## Estadísticas de GitHub  
+
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Daniuh&show_icons=true&theme=radical&cache_seconds=60)
+-->
 
