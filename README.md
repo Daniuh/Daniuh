@@ -65,9 +65,8 @@
 
 
 ---
-<!-- 
+
 ## Estadísticas de GitHub  
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Daniuh&show_icons=true&theme=radical&cache_seconds=60)
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daniuh&theme=dark&hide_border=true&border_radius=5&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CSat)](https://git.io/streak-stats)
 
